@@ -1,0 +1,19 @@
+{
+  "name": "sajjad-ser/intl-carbon",
+  "description": "PHP Carbon for other countries",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sajjad Servatjoo",
+      "email": "sajjad.servatjoo@gmail.com"
+    }
+  ],
+  "require": {
+    "nesbot/carbon": "^1.19"
+  },
+  "autoload": {
+    "psr-0": {
+      "IntlCarbon": "src"
+    }
+  }
+}
